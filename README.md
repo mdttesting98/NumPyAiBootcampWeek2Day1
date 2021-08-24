@@ -1,0 +1,1 @@
+# NumPyAiBootcampWeek2Day1
